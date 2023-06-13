@@ -9,14 +9,14 @@ function Footer() {
                 <h3>Sobre</h3>
             </div>
             <hr />
-            <div className="footerl1">
+            <div className="footerl2">
                 <div className='icones'>
                     <img src={insta} alt="" />
                     <img src={tt} alt="" />
                     <img src={linkedin} alt="" />
                 </div>
                 <div className='termos'>
-                    <h3>Termo de uso</h3>
+                    <h3 className='dwivvi'>Termo de uso</h3>
                     <h3>Politica de Privacidade</h3>
                 </div>
             </div>
